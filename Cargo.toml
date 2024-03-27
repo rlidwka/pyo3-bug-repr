@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "mybin1",
+    "mybin2",
+    "mylib",
+]
